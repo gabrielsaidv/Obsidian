@@ -187,19 +187,9 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
-          },
-          {
-            "id": "3a47c06f178db610",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,7 +209,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "064f1b0df97cd36d",
+  "active": "bceb18907df887ee",
   "lastOpenFiles": [
     "Self/Notas del Chat GPT.md",
     "Geopolitics/Alastair Crooke - Trump The Self-Made Myth.md",
